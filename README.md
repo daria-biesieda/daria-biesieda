@@ -6,6 +6,7 @@ Derzeit lerne ich:
 - HTML & CSS
 - JavaScript
 - Python
+-  AI
 - Git & GitHub
 ## 🚀 Ziele
 - Aufbau eines eigenen Portfolios mit echten Projekten
