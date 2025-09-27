@@ -16,7 +16,7 @@ Derzeit lerne ich:
 
 ## 📜 Certificates
 <p align="center">
-  <img src="certificate-web.pngcertificates/html.png" width="250"/>
+  <img src="certificate-web.png" width="250"/>
   <img src="certificate-react.png" width="250"/>
 </p>
 
