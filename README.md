@@ -10,6 +10,15 @@ Derzeit lerne ich:
 - Lua
 -  AI
 - Git & GitHub
+
+  ## 🛠 Skills
+- **HTML5** — solid knowledge of semantic markup  
+- **CSS3** — responsive and cross-browser layouts  
+- **JavaScript** — basic knowledge, DOM manipulation, events  
+- **React (beginner)** — components, props, basic state management  
+- **Python (beginner)** — syntax fundamentals, simple projects  
+- **Git/GitHub** — version control, commits, pull requests
+  
 ## 🚀 Ziele
 - Aufbau eines eigenen Portfolios mit echten Projekten
 - Start einer Ausbildung als Fachinformatikerin für Anwendungsentwicklung ab 2025
