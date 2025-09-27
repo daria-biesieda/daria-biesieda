@@ -14,6 +14,9 @@ Derzeit lerne ich:
 - Start einer Ausbildung als Fachinformatikerin für Anwendungsentwicklung ab 2025
 - Weiterentwicklung im Bereich Frontend-Entwicklung
 
+## 📜 Certificates
+![HTML Certificate](certificate-react.png)
+
 ## 📂 Projekte
 Meine aktuellen und zukünftigen Projekte findest du in den Repositories unten.  
 Ich arbeite aktiv an Web-Anwendungen und kleinen Tools, um mein Wissen zu vertiefen.
