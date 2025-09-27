@@ -29,7 +29,7 @@ Derzeit lerne ich:
 - [Dino Game](https://github.com/daria-biesieda/dino-game)
 
 ## 📫 Kontakt
-- Portfolio-Seite: (bald verfügbar unter `###`)
+- Portfolio-Seite(2023): (https://deft-narwhal-77936b.netlify.app/)
 ---
 
 *Vielen Dank fürs Vorbeischauen!*
