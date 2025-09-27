@@ -15,8 +15,10 @@ Derzeit lerne ich:
 - Weiterentwicklung im Bereich Frontend-Entwicklung
 
 ## 📜 Certificates
-![HTML Certificate](certificate-web.png)
-![HTML Certificate](certificate-react.png)
+<p align="center">
+  <img src="certificate-web.pngcertificates/html.png" width="250"/>
+  <img src="certificate-react.png" width="250"/>
+</p>
 
 ## 📂 Projekte
 Meine aktuellen und zukünftigen Projekte findest du in den Repositories unten.  
