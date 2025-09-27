@@ -26,7 +26,7 @@ Derzeit lerne ich:
 ## 📂 Projekte
 - [Bakery Landing Page](https://github.com/daria-biesieda/moderne-backerei-1)
 - [Roblox Gaame](https://github.com/daria-biesieda/roblox-first-project-lua)
-- [Dino Gaame](https://github.com/daria-biesieda/dino-game)
+- [Dino Game](https://github.com/daria-biesieda/dino-game)
 
 ## 📫 Kontakt
 - Portfolio-Seite: (bald verfügbar unter `###`)
