@@ -16,10 +16,10 @@ Derzeit lerne ich:
 
 ## 📜 Certificates
 <p align="center">
-  <img src="certificate-basic.png" width="250"/>
-  <img src="certificate-web-basic.png" width="250"/>
-  <img src="certificate-web.png" width="250"/>
-  <img src="certificate-react.png" width="250"/>
+  <img src="certificate-basic.png" width="200"/>
+  <img src="certificate-web-basic.png" width="200"/>
+  <img src="certificate-web.png" width="200"/>
+  <img src="certificate-react.png" width="200"/>
 </p>
 
 ## 📂 Projekte
