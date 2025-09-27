@@ -24,8 +24,7 @@ Derzeit lerne ich:
 </p>
 
 ## 📂 Projekte
-Meine aktuellen und zukünftigen Projekte findest du in den Repositories unten.  
-Ich arbeite aktiv an Web-Anwendungen und kleinen Tools, um mein Wissen zu vertiefen.
+- [Bakery Landing Page](https://github.com/daria-biesieda/moderne-backerei-1)
 
 ## 📫 Kontakt
 - Portfolio-Seite: (bald verfügbar unter `###`)
