@@ -6,6 +6,7 @@ Derzeit lerne ich:
 - HTML & CSS
 - JavaScript
 - Python
+- React
 - Lua
 -  AI
 - Git & GitHub
